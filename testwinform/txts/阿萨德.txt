@@ -1,0 +1,10 @@
+姓名：
+血型：
+生日：
+性别：
+兴趣爱好：
+籍贯：
+个人简介：
+头像：
+[Font: Name=宋体, Size=9, Units=3, GdiCharSet=134, GdiVerticalFont=False]
+Color [WindowText]

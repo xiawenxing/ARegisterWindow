@@ -1,0 +1,11 @@
+E:\c#\testwinform\testwinform\bin\Debug\testwinform.exe.config
+E:\c#\testwinform\testwinform\bin\Debug\testwinform.exe
+E:\c#\testwinform\testwinform\bin\Debug\testwinform.pdb
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.csprojResolveAssemblyReference.cache
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.PersonalRegister.resources
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.Properties.Resources.resources
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.csproj.GenerateResource.cache
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.csproj.CoreCompileInputs.cache
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.exe
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.pdb
+E:\c#\testwinform\testwinform\obj\Debug\testwinform.Form1.resources
